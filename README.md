@@ -62,5 +62,5 @@ After selecting an image, the script will generate an output similar to the foll
 This project is open-source and available under the MIT License.
 
 ## Author
-[Your Name]
+Rajya-V
 
